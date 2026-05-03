@@ -50,13 +50,29 @@
 
 ### 📊 GitHub Stats
 
+<!-- 🧠 Profile Summary (Full Overview Card) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eraygurbuzz&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraygurbuzz&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eraygurbuzz&theme=tokyonight" />
+</p>
+
+<!-- 📊 Main Stats + Languages -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eraygurbuzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraygurbuzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<!-- 🔥 Streak + Extra Stats -->
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=eraygurbuzz&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eraygurbuzz&theme=tokyonight" />
+</p>
+
+<!-- 📌 Productivity Stats -->
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eraygurbuzz&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eraygurbuzz&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraygurbuzz&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/eraygurbuzz/eraygurbuzz/output/snake.svg" />
 </p>
-
----
