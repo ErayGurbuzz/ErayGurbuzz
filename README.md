@@ -50,29 +50,33 @@
 
 ### 📊 GitHub Stats
 
-<!-- 🧠 Profile Summary (Full Overview Card) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eraygurbuzz&theme=tokyonight" />
 </p>
 
-<!-- 📊 Main Stats + Languages -->
+<!-- 📊 MAIN STATS -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eraygurbuzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraygurbuzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eraygurbuzz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraygurbuzz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 🔥 Streak + Extra Stats -->
+<!-- 🔥 STREAK -->
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=eraygurbuzz&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eraygurbuzz&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=eraygurbuzz&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 📌 Productivity Stats -->
+<!-- 📈 EXTRA LANGUAGE STATS -->
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eraygurbuzz&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eraygurbuzz&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eraygurbuzz&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eraygurbuzz&theme=tokyonight" />
 </p>
 
+<!-- 📉 ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eraygurbuzz&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/eraygurbuzz/eraygurbuzz/output/snake.svg" />
 </p>
